@@ -1,0 +1,11 @@
+﻿@model BibliotecaOnline.Models.Libro
+
+<h2>Eliminar Libro</h2>
+
+<p>¿Está seguro de eliminar el libro "@Model.Titulo"?</p>
+
+@using (Html.BeginForm())
+{
+    <button id="btnConfirmar" type="submit">Eliminar</button>
+    @Html.ActionLink("Cancelar", "Index")
+}

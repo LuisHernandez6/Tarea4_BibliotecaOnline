@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|c:\\users\\luish\\source\\repos\\bibliotecaonline\\bibliotecaonline\\bibliotecaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4697BE6E-52F5-4547-AAA4-1C0B902BDB33}|BibliotecaOnline\\BibliotecaOnline.csproj|solutionrelative:bibliotecaonline\\bibliotecaonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Program.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:41:19.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:10:43.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Libros\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:14:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Libros\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:14:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Details.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Libros\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:15:31.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T09:53:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:07:49.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\appsettings.json",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\appsettings.json",
+              "RelativeToolTip": "BibliotecaOnline\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T02:40:37.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:12:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "BibliotecaOnline\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T02:11:39.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:08:01.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:06:26.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\Libro.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:03:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\Models\\Usuario.cs",
+              "RelativeToolTip": "BibliotecaOnline\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T02:02:03.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BibliotecaOnline.csproj",
+              "DocumentMoniker": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\BibliotecaOnline.csproj",
+              "RelativeDocumentMoniker": "BibliotecaOnline\\BibliotecaOnline.csproj",
+              "ToolTip": "C:\\Users\\luish\\source\\repos\\BibliotecaOnline\\BibliotecaOnline\\BibliotecaOnline.csproj",
+              "RelativeToolTip": "BibliotecaOnline\\BibliotecaOnline.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-01T02:32:58.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

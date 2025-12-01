@@ -1,0 +1,40 @@
+﻿@model IEnumerable<BibliotecaOnline.Models.Libro>
+
+<h2>Lista de Libros</h2>
+
+@if (TempData["Success"] != null)
+{
+    <div style="color:green" id="mensaje">@TempData["Success"]</div>
+}
+
+<p>
+    <a href="/Libros/Create">Crear Nuevo Libro</a>
+</p>
+
+<table class="table table-bordered" id="tablaLibros" style="table-layout: fixed; width: 100%;">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Precio</th>
+            <th>Stock</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var libro in Model)
+        {
+            <tr>
+                <td>@libro.Titulo</td>
+                <td style="word-break: break-word; overflow-wrap: break-word;">@libro.Autor</td>
+                <td>@libro.Precio</td>
+                <td>@libro.Stock</td>
+                <td>
+                    <a href="/Libros/Edit/@libro.Id">Editar</a> |
+                    <a href="/Libros/Details/@libro.Id">Detalles</a> |
+                    <a href="/Libros/Delete/@libro.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
