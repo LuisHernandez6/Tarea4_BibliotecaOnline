@@ -7,6 +7,8 @@ Los libros son almacenados en una base de datos **SQL Server** con la cual la pa
 
 Para crear la base de datos se debe ejecutar el archivo de script SQL *BibliotecaOnline_20231804.sql*
 
-Las pruebas de **Selenium** y el reporte se encuentran en la carpeta **biblioteca_tests**. Estas fueron desarrolladas con Python utilizando los paquetes de *selenium*, *pytest* y *pytest-html*. 
+### Pruebas automaziadas con Selenium
+
+El codigo fuente de las pruebas de **Selenium** y el **report.html** junto a los screenshots se encuentran en la carpeta **biblioteca_tests**. Estas fueron desarrolladas con Python utilizando los paquetes de *selenium*, *pytest* y *pytest-html*. 
 
 El enlace de la pagina en la cual se realizaran las pruebas se encuentra en *utils\base_test.py*
